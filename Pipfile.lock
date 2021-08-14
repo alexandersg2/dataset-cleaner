@@ -1,0 +1,65 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "42175f35d000bc8419073ce98e055e00709dd8cce770bf19a10f5aa951d748a9"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "anyascii": {
+            "hashes": [
+                "sha256:18a77d22da66f2b5e6951f7f365b543656f16c5d7c68f7c70055f030767df403",
+                "sha256:7036c5fdefa40fe9d73a6552ac4f2821916a2a29c1368925f0b7846e536bd2ac"
+            ],
+            "markers": "python_version >= '3.3'",
+            "version": "==0.2.0"
+        },
+        "contractions": {
+            "hashes": [
+                "sha256:ca416fe081643eddb96b11d0bb3c94a6182cc6d12e518352cf79474ee273c3be",
+                "sha256:cd2cff798512b9694445b5b87230e7847dac3048dcd191f2b1c33b5fca3a58f9"
+            ],
+            "index": "pypi",
+            "version": "==0.0.52"
+        },
+        "decorator": {
+            "hashes": [
+                "sha256:6e5c199c16f7a9f0e3a61a4a54b3d27e7dad0dbdde92b944426cb20914376323",
+                "sha256:72ecfba4320a893c53f9706bebb2d55c270c1e51a28789361aa93e4a21319ed5"
+            ],
+            "markers": "python_version >= '3.5'",
+            "version": "==5.0.9"
+        },
+        "pyahocorasick": {
+            "hashes": [
+                "sha256:88f79307c74ae6a84f8d88c2522a082f1d21c425762aba7f7e4d14dd431d2fb7"
+            ],
+            "version": "==1.4.2"
+        },
+        "self": {
+            "hashes": [
+                "sha256:a0c408138257e0ba6188f2a7ad80cb3f61c3e48c3f85d1f973a160f6f887dc53"
+            ],
+            "index": "pypi",
+            "version": "==2020.12.3"
+        },
+        "textsearch": {
+            "hashes": [
+                "sha256:2d501541effd2e3698391b48596676333bb61f59c6090ce52184bcd945f2bdb0",
+                "sha256:4b8b946b0ed8986b651a0d6ca526c3c5bc777bcc9d83312dfad3b10635f00de9"
+            ],
+            "version": "==0.0.21"
+        }
+    },
+    "develop": {}
+}
