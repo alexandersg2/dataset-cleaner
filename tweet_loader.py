@@ -2,7 +2,7 @@ import pandas
 from pandas import DataFrame
 
 
-class TweetLoader:
+class DatasetLoader:
     SENTIMENT_COL = 0
     CONTENT_COL = 5
 
